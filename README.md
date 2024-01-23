@@ -34,10 +34,8 @@ This project is built upon the [Soft UI](https://www.creative-tim.com/product/so
 - **JavaScript**
 - **Bootstrap**
 - **Swiper JS**
-- **Nepcha Analytics**
 - **jQuery**
 - **Slick Carousel**
-- **Google Maps API**
 
 ## Credits
 
@@ -46,8 +44,6 @@ This project wouldn't be possible without the contributions and libraries from t
 - **[Bootstrap](https://getbootstrap.com/)** - A powerful CSS framework for building responsive and mobile-first websites.
 
 - **[Swiper JS](https://swiperjs.com/)** - Modern touch slider with hardware-accelerated transitions and great performance.
-
-- **[Nepcha Analytics](https://nepcha.com/)** - An easy-to-use web analytics tool, fully compliant with GDPR, CCPA, and PECR.
 
 - **[Slick Carousel](https://kenwheeler.github.io/slick/)** - A responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events, and more.
 
